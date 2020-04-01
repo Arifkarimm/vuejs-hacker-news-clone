@@ -1,4 +1,4 @@
-# test-n
+# hacker News Clone
 
 ## Project setup
 ```
