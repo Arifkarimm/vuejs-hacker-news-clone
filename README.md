@@ -26,4 +26,9 @@ npm run lint
 
 ### Customize configuration
 
+### Hacker News Link
+
+https://hacker-news.firebaseio.com/v0/topstories.json
+https://hacker-news.firebaseio.com/v0/item/16619917.json
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
